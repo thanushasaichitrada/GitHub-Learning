@@ -11,6 +11,7 @@ Welcome to my Git and GitHub learning journey.
 - Created my first repository
 - Learning Git and GitHub
 
-##Today's Learning
--Learned how to clone a GitHub repository
--Opened the repository in VS Code
+## Today's Learning
+- Learned how to clone a GitHub repository
+
+- Opened the repository in VS Code
