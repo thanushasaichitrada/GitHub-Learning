@@ -24,3 +24,13 @@ Welcome to my Git and GitHub learning journey.
 - Learned how to create a commit
 
 - Learned how to push changes to GitHub
+
+## Today's Learning (Day 4)
+
+- Learned what git pull does
+
+- Learned when to use git pull
+
+- Understood the difference between git push and git pull
+
+- Practiced downloading the latest changes from GitHub
