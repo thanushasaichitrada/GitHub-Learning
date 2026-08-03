@@ -34,3 +34,15 @@ Welcome to my Git and GitHub learning journey.
 - Understood the difference between git push and git pull
 
 - Practiced downloading the latest changes from GitHub
+
+## Today's Learning (Day 4 - part 2)
+
+- Learned what git fetch does
+
+- Learned what a Git branch is
+
+- Created my first branch (practice)
+
+- Switched from main to practice
+
+- Switched back from practice to main
