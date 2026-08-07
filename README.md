@@ -55,10 +55,10 @@ Welcome to my Git and GitHub learning journey.
 
 - Learned what git merge does
 
--Understood why git merge is used
+- Understood why git merge is used
 
--Learned how to merge one branch into another
+- Learned how to merge one branch into another
 
--Practiced merging the merge-practice branch into main
+- Practiced merging the merge-practice branch into main
 
--Successfull completed my first Git merge
+- Successfull completed my first Git merge
