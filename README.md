@@ -46,3 +46,7 @@ Welcome to my Git and GitHub learning journey.
 - Switched from main to practice
 
 - Switched back from practice to main
+
+## Merge-Practicing
+
+- This line was added in tht Merge-Practice branch
