@@ -50,3 +50,15 @@ Welcome to my Git and GitHub learning journey.
 ## Merge-Practicing
 
 - This line was added in tht Merge-Practice branch
+
+## Today's Learning(Day 5)
+
+- Learned what git merge does
+
+-Understood why git merge is used
+
+-Learned how to merge one branch into another
+
+-Practiced merging the merge-practice branch into main
+
+-Successfull completed my first Git merge
